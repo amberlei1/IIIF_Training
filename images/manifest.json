@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://amberlei1.github.io/IIIF_Training/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in amberlei1/IIIF_Training project"
+        ]
+    },
+    "items": []
+}
